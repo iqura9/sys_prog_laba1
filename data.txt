@@ -1,0 +1,1 @@
+In programming, variables are used to store data. The variable names should be meaningful and descriptive. Avoid using long and confusing identifiers in your code. eeeee#aaa bbb dsf ccc/ooo aaa ee
